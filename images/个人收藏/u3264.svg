@@ -1,0 +1,25 @@
+<?xml version="1.0" standalone="no"?><!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd"><svg t="1508692194679" class="icon" style="" viewBox="0 0 1024 1024" version="1.1" xmlns="http://www.w3.org/2000/svg" p-id="18873" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="32"><defs><style type="text/css">@font-face {
+  font-family: "weel-translate";
+  font-style: normal;
+  font-weight: normal;
+  src: url("moz-extension://3f6133e6-5f59-43ec-8a7b-37267ca04603/fonts/weel-translate.ttf") format("truetype"), url("moz-extension://3f6133e6-5f59-43ec-8a7b-37267ca04603/fonts/weel-translate.woff") format("woff");
+}
+@font-face {
+  font-family: "weel-translate";
+  font-style: normal;
+  font-weight: normal;
+  src: url("moz-extension://3f6133e6-5f59-43ec-8a7b-37267ca04603/fonts/weel-translate.ttf") format("truetype"), url("moz-extension://3f6133e6-5f59-43ec-8a7b-37267ca04603/fonts/weel-translate.woff") format("woff");
+}
+@font-face {
+  font-family: "weel-translate";
+  font-style: normal;
+  font-weight: normal;
+  src: url("moz-extension://3f6133e6-5f59-43ec-8a7b-37267ca04603/fonts/weel-translate.ttf") format("truetype"), url("moz-extension://3f6133e6-5f59-43ec-8a7b-37267ca04603/fonts/weel-translate.woff") format("woff");
+}
+@font-face {
+  font-family: "weel-translate";
+  font-style: normal;
+  font-weight: normal;
+  src: url("moz-extension://3f6133e6-5f59-43ec-8a7b-37267ca04603/fonts/weel-translate.ttf") format("truetype"), url("moz-extension://3f6133e6-5f59-43ec-8a7b-37267ca04603/fonts/weel-translate.woff") format("woff");
+}
+</style></defs><path d="M512 0a512 512 0 1 0 0 1024A512 512 0 0 0 512 0z m0 921.6c-226.24 0-409.6-183.36-409.6-409.6S285.76 102.4 512 102.4s409.6 183.36 409.6 409.6-183.36 409.6-409.6 409.6z" p-id="18874" fill="#EB445A"></path><path d="M512 768m-51.2 0a51.2 51.2 0 1 0 102.4 0 51.2 51.2 0 1 0-102.4 0Z" p-id="18875" fill="#EB445A"></path><path d="M512 204.8a64 64 0 0 0-64 64l38.4 384a25.6 25.6 0 1 0 51.2 0l38.4-384a64 64 0 0 0-64-64z" p-id="18876" fill="#EB445A"></path></svg>
